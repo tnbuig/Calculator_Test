@@ -9,3 +9,11 @@ Inspiration for my calculator from: “My Cute Graphics”
 http://www.mycutegraphics.com/graphics/school/supplies/lime-green-calculator.html
 
 Operation logic from “windows calculator” 
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
